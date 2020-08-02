@@ -22,5 +22,14 @@ public abstract class Bank {
 
 		System.out.println("Bank -- Debit Method");
 	}
+	
+	public void math() {
+		
+		int i=2,j=4;
+		int Add;
+		Add = i + j;
+		System.out.println("Addition of two numbers are " + Add);
+		
+	}
 
 }
